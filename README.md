@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🛡️ Ronconi Security
 
-<!--
-**ronconi-sec/ronconi-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Red Team Pentester in Progress
 
-Here are some ideas to get you started:
+🇮🇹 **Andrea Ronconi**  
+🧠 **Self-Taught Hacker** | 🐧 **Linux & Security Enthusiast** | 🔒 **Future Remote Red Teamer**  
+*"I don’t just hack machines — I’m hacking my entire life."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 What I Do
+
+- 🧠 **TryHackMe & HackTheBox** → Labs, real pentest machines & write-ups  
+- 🛠 **Scripts & Tools** → Bash & Python for enumeration, automation & exploitation  
+- 📝 **Learning Notes** → Privilege escalation, AD attacks, web exploits  
+- 🏗️ **Home Red Team Lab** → Active Directory & Windows attacks  
+
+---
+
+### 🛣️ Current Focus
+
+1. Building **Red Team skills** (Windows AD, privilege escalation, lateral movement)  
+2. Publishing **tools & write-ups weekly**  
+3. Proving that **skills & consistency > degrees**  
+
+---
+
+### 🌐 Connect With Me
+
+- **GitHub:** [ronconi-sec](https://github.com/ronconi-sec)  
+- **TryHackMe:** [ronconi.sec](https://tryhackme.com/p/ronconi.sec)  
+- **ProtonMail:** [andrea.ronconi.dev@proton.me](mailto:andrea.ronconi.dev@proton.me)  
+- *(Instagram & Blog coming soon)*  
+
+---
+
+#### ✅ Featured Repositories
+
+- [**Cybersecurity Portfolio**](https://github.com/ronconi-sec/cybersecurity-portfolio) → HTB & THM write-ups, scripts & notes  
+- *(More coming soon — scripts & AD lab)*
+
+---
+
+⭐ **Follow my journey — from self-taught to professional Red Teamer.**
