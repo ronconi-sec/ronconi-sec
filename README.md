@@ -8,36 +8,51 @@
 
 ---
 
-### 📚 What I Do
+### 🛠️ Current Stack
 
-- 🧠 **TryHackMe & HackTheBox** → Labs, real pentest machines & write-ups  
-- 🛠 **Scripts & Tools** → Bash & Python for enumeration, automation & exploitation  
-- 📝 **Learning Notes** → Privilege escalation, AD attacks, web exploits  
-- 🏗️ **Home Red Team Lab** → Active Directory & Windows attacks  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/-Nmap-000?&logo=nmap&logoColor=23E5DB" />
+  <img src="https://img.shields.io/badge/-Metasploit-000?&logo=metasploit&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-000?&logo=burp-suite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/-Windows%20Server-000?&logo=windows&logoColor=0078D6" />
+  <img src="https://img.shields.io/badge/-Active%20Directory-000?&logo=microsoft&logoColor=F05032" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronconi-sec&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronconi-sec&layout=compact&theme=tokyonight" height="165">
+</p>
 
 ---
 
 ### 🛣️ Current Focus
 
-1. Building **Red Team skills** (Windows AD, privilege escalation, lateral movement)  
-2. Publishing **tools & write-ups weekly**  
-3. Proving that **skills & consistency > degrees**  
+✔ Building **Red Team skills** (Windows AD, privilege escalation, lateral movement)  
+✔ Publishing **tools & write-ups weekly**  
+✔ Proving that **skills & consistency > degrees**
 
 ---
 
 ### 🌐 Connect With Me
 
-- **GitHub:** [ronconi-sec](https://github.com/ronconi-sec)  
-- **TryHackMe:** [ronconi.sec](https://tryhackme.com/p/ronconi.sec)  
-- **ProtonMail:** [andrea.ronconi.dev@proton.me](mailto:andrea.ronconi.dev@proton.me)  
-- *(Instagram & Blog coming soon)*  
-
----
-
-#### ✅ Featured Repositories
-
-- [**Cybersecurity Portfolio**](https://github.com/ronconi-sec/cybersecurity-portfolio) → HTB & THM write-ups, scripts & notes  
-- *(More coming soon — scripts & AD lab)*
+<p align="center">
+  <a href="mailto:andrea.ronconi.dev@proton.me">
+    <img src="https://img.shields.io/badge/Email-ProtonMail-blue?style=for-the-badge&logo=protonmail" />
+  </a>
+  <a href="https://tryhackme.com/p/ronconi.sec">
+    <img src="https://img.shields.io/badge/TryHackMe-ronconi.sec-red?style=for-the-badge&logo=tryhackme" />
+  </a>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Training-green?style=for-the-badge&logo=hack-the-box" />
+  </a>
+</p>
 
 ---
 
