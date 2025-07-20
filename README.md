@@ -13,12 +13,10 @@
 ### 🛠️ Current Stack
 
 <p align="center">
-  <!-- 🔴 Core Pentesting -->
   <img src="https://skillicons.dev/icons?i=kali,linux,windows,virtualbox,wireshark" />
 </p>
 
 <p align="center">
-  <!-- 🟡 Scripting & Automation -->
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github" />
 </p>
 
