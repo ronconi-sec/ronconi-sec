@@ -13,10 +13,9 @@
 ### 🛠️ Current Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,debian,windows,virtualbox" />
-</p>
-
-<p align="center">
+  <!-- Fila 1 -->
+  <img src="https://skillicons.dev/icons?i=kali,linux,debian,windows,virtualbox" /><br><br>
+  <!-- Fila 2 -->
   <img src="https://skillicons.dev/icons?i=wireshark,python,bash,git,docker" />
 </p>
 
