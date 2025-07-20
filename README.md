@@ -11,14 +11,14 @@
 ### 🛠️ Current Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/-Nmap-000?&logo=nmap&logoColor=23E5DB" />
-  <img src="https://img.shields.io/badge/-Metasploit-000?&logo=metasploit&logoColor=blue" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-000?&logo=burp-suite&logoColor=FF6633" />
-  <img src="https://img.shields.io/badge/-Windows%20Server-000?&logo=windows&logoColor=0078D6" />
-  <img src="https://img.shields.io/badge/-Active%20Directory-000?&logo=microsoft&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=nmap&logoColor=23E5DB" />
+  <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge&logo=metasploit&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-000?style=for-the-badge&logo=burp-suite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/Windows%20Server-000?style=for-the-badge&logo=windows&logoColor=0078D6" />
+  <img src="https://img.shields.io/badge/Active%20Directory-000?style=for-the-badge&logo=microsoft&logoColor=F05032" />
 </p>
 
 ---
