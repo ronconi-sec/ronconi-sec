@@ -49,13 +49,13 @@
 
 <p align="center">
   <a href="mailto:andrea.ronconi.dev@proton.me">
-    <img src="https://skillicons.dev/icons?i=protonmail" width="48"/>
+    <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://tryhackme.com/p/ronconi.sec">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ronconi.sec.png" alt="TryHackMe">
+    <img src="https://img.shields.io/badge/TryHackMe-ronconi.sec-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Training-green?style=for-the-badge&logo=hack-the-box" />
+  <a href="https://app.hackthebox.com/">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Training-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" />
   </a>
 </p>
 
