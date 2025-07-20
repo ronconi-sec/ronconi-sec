@@ -13,16 +13,18 @@
 ### 🛠️ Current Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash" />
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-23E5DB?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <!-- Pentesting & Systems -->
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,powershell" /><br>
+  
+  <!-- Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=python,git,github" /><br>
+  
+  <!-- Networking & Tools -->
+  <img src="https://skillicons.dev/icons?i=wireshark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=virtualbox" />
 </p>
 
 ---
