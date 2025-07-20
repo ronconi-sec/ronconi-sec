@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,debian,windows,virtualbox" /><br><br>
-  <img src="https://skillicons.dev/icons?i=wireshark,python,bash,git,docker" />
+  <img src="https://skillicons.dev/icons?i=wireshark,python,bash,git,docker" /><br><br>
 </p>
 
 ---
