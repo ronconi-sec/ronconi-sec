@@ -13,11 +13,7 @@
 ### 🛠️ Current Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows,virtualbox,wireshark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows,virtualbox,wireshark,python,bash,powershell,git,github" />
 </p>
 
 ---
