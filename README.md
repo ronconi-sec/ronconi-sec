@@ -13,14 +13,13 @@
 ### 🛠️ Current Stack
 
 <p align="center">
-  <!-- Systems & Pentesting -->
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,virtualbox" /><br>
+  <!-- 🔴 Core Pentesting -->
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows,virtualbox,wireshark" />
+</p>
 
-  <!-- Programming & Scripting -->
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github" /><br>
-
-  <!-- Networking & Security -->
-  <img src="https://skillicons.dev/icons?i=wireshark" />
+<p align="center">
+  <!-- 🟡 Scripting & Automation -->
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github" />
 </p>
 
 ---
