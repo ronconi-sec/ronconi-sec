@@ -2,23 +2,27 @@
 
 ## 🔥 Red Team Pentester in Progress
 
-🇮🇹 **Andrea Ronconi**  
+**🇮🇹 Andrea Ronconi**  
+*"I don’t just hack machines — I’m hacking my entire life."*  
 🧠 **Self-Taught Hacker** | 🐧 **Linux & Security Enthusiast** | 🔒 **Future Remote Red Teamer**  
-*"I don’t just hack machines — I’m hacking my entire life."*
+
+💬 I’m documenting my journey from zero to professional Red Team, proving that **skills & consistency beat degrees**.
 
 ---
 
 ### 🛠️ Current Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=nmap&logoColor=23E5DB" />
-  <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge&logo=metasploit&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-000?style=for-the-badge&logo=burp-suite&logoColor=FF6633" />
-  <img src="https://img.shields.io/badge/Windows%20Server-000?style=for-the-badge&logo=windows&logoColor=0078D6" />
-  <img src="https://img.shields.io/badge/Active%20Directory-000?style=for-the-badge&logo=microsoft&logoColor=F05032" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-23E5DB?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
@@ -34,9 +38,10 @@
 
 ### 🛣️ Current Focus
 
-✔ Building **Red Team skills** (Windows AD, privilege escalation, lateral movement)  
-✔ Publishing **tools & write-ups weekly**  
-✔ Proving that **skills & consistency > degrees**
+✔ **Hack The Box & TryHackMe** labs (tier by tier)  
+✔ Building **custom scripts & tools** for automation  
+✔ Writing **clean, documented write-ups** for my portfolio  
+✔ Learning **Windows AD & lateral movement** for Red Team  
 
 ---
 
@@ -44,10 +49,10 @@
 
 <p align="center">
   <a href="mailto:andrea.ronconi.dev@proton.me">
-    <img src="https://img.shields.io/badge/Email-ProtonMail-blue?style=for-the-badge&logo=protonmail" />
+    <img src="https://skillicons.dev/icons?i=protonmail" width="48"/>
   </a>
   <a href="https://tryhackme.com/p/ronconi.sec">
-    <img src="https://img.shields.io/badge/TryHackMe-ronconi.sec-red?style=for-the-badge&logo=tryhackme" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ronconi.sec.png" alt="TryHackMe">
   </a>
   <a href="https://www.hackthebox.com/">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-Training-green?style=for-the-badge&logo=hack-the-box" />
@@ -56,4 +61,5 @@
 
 ---
 
-⭐ **Follow my journey — from self-taught to professional Red Teamer.**
+⭐ **Follow my journey — from self-taught to professional Red Teamer.**  
+*"If you want to go fast, go alone. If you want to go far, go consistent."*
