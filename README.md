@@ -13,18 +13,14 @@
 ### 🛠️ Current Stack
 
 <p align="center">
-  <!-- Pentesting & Systems -->
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,powershell" /><br>
-  
+  <!-- Systems & Pentesting -->
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,virtualbox" /><br>
+
   <!-- Programming & Scripting -->
-  <img src="https://skillicons.dev/icons?i=python,git,github" /><br>
-  
-  <!-- Networking & Tools -->
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github" /><br>
+
+  <!-- Networking & Security -->
   <img src="https://skillicons.dev/icons?i=wireshark" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" width="48" />
-  <img src="https://skillicons.dev/icons?i=virtualbox" />
 </p>
 
 ---
