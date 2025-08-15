@@ -1,16 +1,8 @@
-# 🛡️ Ronconi Security
+# Andrea Ronconi 👋
+**Offensive Security & Linux Expert | Red Team Enthusiast**
 
-## 🔥 Red Team Pentester in Progress
-
-**🇮🇹 Andrea Ronconi**  
-*"I don’t just hack machines — I’m hacking my entire life."*  
-🧠 **Self-Taught Hacker** | 🐧 **Linux & Security Enthusiast** | 🔒 **Future Remote Red Teamer**  
-
-💬 I’m documenting my journey from zero to professional Red Team, proving that **skills & consistency beat degrees**.
-
----
-
-### 🛠️ Current Stack
+I am a cybersecurity professional specializing in penetration testing, Linux systems, and red team operations.  
+I help startups and companies identify vulnerabilities, strengthen their systems, and deliver actionable reports with real-world impact.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,debian,windows,virtualbox" /><br><br>
@@ -19,41 +11,43 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronconi-sec&show_icons=true&theme=tokyonight" height="165">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronconi-sec&layout=compact&theme=tokyonight" height="165">
-</p>
+## 🛠️ Core Skills
+- **Penetration Testing / Red Team:** Web exploitation, privilege escalation, Active Directory, Linux enumeration, post-exploitation  
+- **Scripting & Automation:** Python, Bash  
+- **Tools & Frameworks:** Nmap, Metasploit, Burp Suite, Gobuster, Hydra, Wireshark  
+- **Systems & Environments:** Kali Linux, Ubuntu, Debian, Windows, VirtualBox, Docker  
+- **Other Expertise:** OSINT, security hardening, vulnerability assessment, report writing
 
 ---
 
-### 🛣️ Current Focus
+## 🚀 Featured Projects
 
-✔ **Hack The Box & TryHackMe** labs (tier by tier)  
-✔ Building **custom scripts & tools** for automation  
-✔ Writing **clean, documented write-ups** for my portfolio  
-✔ Learning **Windows AD & lateral movement** for Red Team  
+### **1. Red Team Lab Environment**
+- Personal lab simulating real-world networks for offensive operations and privilege escalation.  
+- Demonstrates exploitation of Linux and Windows targets with detailed documentation.  
+- [View Lab Project](./projects/redteam-lab)
 
----
+### **2. Automated Pentesting Scripts**
+- Collection of Python & Bash scripts for quick reconnaissance, scanning, and exploitation.  
+- Example: `reconx.sh` automates nmap, gobuster, and enumeration tasks.  
+- [View Scripts](./tools)
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:andrea.ronconi.dev@proton.me">
-    <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/ronconi.sec">
-    <img src="https://img.shields.io/badge/TryHackMe-ronconi.sec-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://app.hackthebox.com/">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Training-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" />
-  </a>
-</p>
+### **3. HackTheBox & TryHackMe Writeups**
+- Detailed, professional write-ups with step-by-step exploitation and lessons learned.  
+- Focused on web apps, Linux enumeration, and privilege escalation.  
+- [View Writeups](./writeups-redteam)
 
 ---
 
-⭐ **Follow my journey — from self-taught to professional Red Teamer.**  
-*"If you want to go fast, go alone. If you want to go far, go consistent."*
+## 📬 Contact
+- **Email:** andrea.ronconi@example.com  
+- **LinkedIn:** [Your LinkedIn URL]  
+- **Portfolio / Projects:** [Optional Web Portfolio]
+
+---
+
+## 🎯 Why Hire Me?
+- Proven hands-on experience in offensive security and Linux environments.  
+- Scripts, labs, and reports ready for real-world applications.  
+- Strong documentation and communication skills to deliver professional client-ready outputs.  
+- 100% remote ready, highly motivated, and constantly learning the latest in cybersecurity.
