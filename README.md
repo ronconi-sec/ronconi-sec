@@ -40,9 +40,9 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 ---
 
 ## 📬 Contact
-- **Email:** andrea.ronconi@example.com  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Portfolio / Projects:** [Optional Web Portfolio]
+- **Email:** andrea.ronconi.dev@proton.me 
+- **LinkedIn:** [Soon]  
+- **Portfolio / Projects:** [Soon]
 
 ---
 
