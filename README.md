@@ -49,7 +49,7 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 ## 🌍 Languages
 - 🇮🇹 **Italian:** Native  
 - 🇪🇸 **Spanish:** Native
-- 🇷🇴 **Romanian:** Native  
+- 🇷🇴 **Romanian:** Fluent  
 - 🇬🇧 **English:** Professional (working proficiency)  
 
 ---
