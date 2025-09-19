@@ -46,6 +46,14 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 
 ---
 
+## 🌍 Languages
+- 🇮🇹 **Italian:** Native  
+- 🇪🇸 **Spanish:** Native
+- 🇷🇴 **Romanian:** Native  
+- 🇬🇧 **English:** Professional (working proficiency)  
+
+---
+
 ## 🎯 Why Hire Me?
 - Proven hands-on experience in offensive security and Linux environments.  
 - Scripts, labs, and reports ready for real-world applications.  
