@@ -25,17 +25,17 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 ### **1. Red Team Lab Environment**
 - Personal lab simulating real-world networks for offensive operations and privilege escalation.  
 - Demonstrates exploitation of Linux and Windows targets with detailed documentation.  
-- [View Lab Project](https://github.com/ronconi-sec/RedTeam-Portfolio/tree/main/projects/redteam-lab))
+- [View Lab Project](https://github.com/ronconi-sec/RedTeam-Portfolio/tree/main/projects/redteam-lab)
 
 ### **2. Automated Pentesting Scripts**
 - Collection of Python & Bash scripts for quick reconnaissance, scanning, and exploitation.  
 - Example: `reconx.sh` automates nmap, gobuster, and enumeration tasks.  
-- [View Scripts](./RedTeam-Portfolio/tools)
+- [View Scripts](https://github.com/ronconi-sec/RedTeam-Portfolio/tree/main/tools)
 
 ### **3. HackTheBox & TryHackMe Writeups**
 - Detailed, professional write-ups with step-by-step exploitation and lessons learned.  
 - Focused on web apps, Linux enumeration, and privilege escalation.  
-- [View Writeups](ronconi-sec/RedTeam-Portfolio/writeups-redteam)
+- [View Writeups](https://github.com/ronconi-sec/RedTeam-Portfolio/tree/main/writeups-redteam)
 
 ---
 
