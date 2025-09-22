@@ -35,7 +35,7 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 ### **3. HackTheBox & TryHackMe Writeups**
 - Detailed, professional write-ups with step-by-step exploitation and lessons learned.  
 - Focused on web apps, Linux enumeration, and privilege escalation.  
-- [View Writeups](./RedTeam-Portfolio/writeups-redteam)
+- [View Writeups](ronconi-sec/RedTeam-Portfolio/writeups-redteam)
 
 ---
 
