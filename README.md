@@ -25,7 +25,7 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 ### **1. Red Team Lab Environment**
 - Personal lab simulating real-world networks for offensive operations and privilege escalation.  
 - Demonstrates exploitation of Linux and Windows targets with detailed documentation.  
-- [View Lab Project](https://github.com/ronconi-sec/RedTeam-Portfolio/tree/main/projects/redteam-lab)
+- [View Lab Project](https://github.com/ronconi-sec/RedTeam-Portfolio/tree/main/projects)
 
 ### **2. Automated Pentesting Scripts**
 - Collection of Python & Bash scripts for quick reconnaissance, scanning, and exploitation.  
