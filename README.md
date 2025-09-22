@@ -42,7 +42,6 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 ## 📬 Contact
 - **Email:** andrea.ronconi.dev@proton.me 
 - **LinkedIn:** [Soon]  
-- **Portfolio / Projects:** [Soon]
 
 ---
 
