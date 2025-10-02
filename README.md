@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Andrea Ronconi 👋
 **Offensive Security & Linux Expert | Red Team Enthusiast**
 
