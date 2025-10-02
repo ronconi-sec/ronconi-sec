@@ -1,3 +1,4 @@
+cat > README.md <<'EOF'
 # Andrea Ronconi 👋
 **Offensive Security & Linux Expert | Red Team Enthusiast**
 
@@ -58,3 +59,7 @@ I help startups and companies identify vulnerabilities, strengthen their systems
 - Scripts, labs, and reports ready for real-world applications.  
 - Strong documentation and communication skills to deliver professional client-ready outputs.  
 - 100% remote ready, highly motivated, and constantly learning the latest in cybersecurity.
+EOF
+
+git add README.md
+git commit -m "docs: add root README"
